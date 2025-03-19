@@ -1,0 +1,6 @@
+# BoundingBoxPrediction.srv
+# Request
+string prompt
+---
+# Response
+BoundingBoxes[] boxes
